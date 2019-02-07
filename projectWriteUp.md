@@ -58,10 +58,10 @@ The pathplanner only selects the state of the car, that is the lane in which the
 
 ### Now screenshots of the car achieving the goal.
 
-[image1]: ./4.3miles.png "4.3"
-[image2]: ./6.0miles.png "6.0"
-[alt text][image1]
-[alt text][image2]
+[image1]: ./4.3miles.png "miles: 4.3"
+[image2]: ./6.0miles.png "miles: 6.0"
+![alt text] [image1]
+![alt text] [image2]
 
 
 
