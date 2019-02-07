@@ -8,6 +8,12 @@ The goals / steps of this project are the following:
 
 My Path Planning Project began with much of the code that was covered in the Getting Started video.From there, I went through the process of setting up a cost system for lane changing, analyzing the other vehicles on the road, and ensuring no accidents would / should occur. My control system has successfully run for well over 30 minutes with no accident.
 
+[//]: # (Image References)
+
+[image1]: ./4.3miles.png "miles: 4.3"
+[image2]: ./6.0miles.png "miles: 6.0"
+
+
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/1971/view) individually and describe how I addressed each point in my implementation.  
 
@@ -58,10 +64,9 @@ The pathplanner only selects the state of the car, that is the lane in which the
 
 ### Now screenshots of the car achieving the goal.
 
-[image1]: ./4.3miles.png "miles: 4.3"
-[image2]: ./6.0miles.png "miles: 6.0"
-![alt text] [image1]
-![alt text] [image2]
+
+![alt text][image1]
+![alt text][image2]
 
 
 
