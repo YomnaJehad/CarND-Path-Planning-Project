@@ -58,6 +58,9 @@ The pathplanner only selects the state of the car, that is the lane in which the
 
 ### Now screenshots of the car achieving the goal.
 
+![alt text](https://github.com/YomnaJehad/CarND-Path-Planning-Project/blob/master/4.3miles.png)
+![alt text](https://github.com/YomnaJehad/CarND-Path-Planning-Project/blob/master/6.0miles.png)
+
 
 
 
